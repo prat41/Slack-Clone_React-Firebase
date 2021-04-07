@@ -5,8 +5,6 @@ Before Going to Start Application install NPM from node.js site here (https://no
 install React JS
 and create React App by using this command 
 
-npx start-react-app app_name
-
 to run the React App
 
-npm start
+`npm start`
